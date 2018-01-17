@@ -5,4 +5,4 @@
 [submodule "lib/ansible/modules/extras"]
 	path = lib/ansible/modules/extras
 	url = https://github.com/ansible/ansible-modules-extras.git
-	branch = stable-1.9-hotfix
+	branch = stable-1.9
