@@ -4,5 +4,5 @@
 	branch = stable-1.9-hotfix
 [submodule "lib/ansible/modules/extras"]
 	path = lib/ansible/modules/extras
-	url = https://github.com/vpetersson/ansible-modules-extras.git
+	url = https://github.com/ansible/ansible-modules-extras.git
 	branch = stable-1.9-hotfix
